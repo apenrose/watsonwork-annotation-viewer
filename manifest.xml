@@ -1,0 +1,4 @@
+applications:
+        - name: watsonwork-annotation-viewer
+        random-route: true
+        memory: 128M
